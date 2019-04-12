@@ -1,0 +1,2 @@
+# opencv
+trabajando con imagenes
